@@ -1,0 +1,66 @@
+Programmering 1, 100 poäng
+Kurskod: PRRPRR01
+
+Kursen programmering 1 omfattar punkterna 2–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 2–4 och 7–8.
+
+Centralt innehåll
+Undervisningen i kursen ska behandla följande centrala innehåll:
+Sekventiell programmering i det eller de valda programmeringsspråken.
+Språkurvalet kan göras från såväl programspråk och skriptspråk som kompilerande och tolkande språk.
+Ett av de valda språken ska ha tillgång till mångsidiga objektorienterade standardbibliotek.
+Programmeringsspråkets eller -språkens grundläggande datatyper samt fördefinierade strukturer, regler och syntax.
+Traditioner och nya trender i utvecklingen av programmeringsspråk.
+Kontrollstrukturer, till exempel sekvens, selektion och iteration, planerade med aktivitetsdiagram och skrivna i ett väl implementerat programflöde.
+Grunderna för klasser, objekt, egenskaper och metoder.
+Variablers och konstanters synlighet och livslängd.
+Enkla sorteringsalgoritmer och sökningsalgoritmer.
+Grundläggande rekursiva algoritmer.
+Interaktion med användaren i ett enkelt grafiskt användargränssnitt.
+Implementeringar av datastrukturer, till exempel vektor, fält, lista och trädstruktur.
+Felsökning av källkod och undantagshantering i interaktiva program.
+Samspelet mellan program och dator från källkod till exekvering.
+De vanligaste programmeringsspråkens krav på körtidsmiljöer och operativsystem samt deras aktuella användningsområden.
+
+Kunskapskrav
+
+Betyget E
+Eleven formulerar och planerar programmeringsuppgifter med pseudokod utifrån en förlaga eller, i samråd med handledare, med aktivitetsdiagram.
+I planeringen väljer eleven med viss säkerhet kontrollstrukturer, metoder, variabler, datastrukturer och algoritmer som är adekvata för uppgiften.
+Eleven implementerar en sökningsalgoritm och i samråd med handledare också en sorteringsalgoritm eller en rekursiv algoritm.
+I sin programmering skriver eleven en korrekt, delvis strukturerad och kommenterad källkod, med konsekvent kodningsstil och tydlig namngivning.
+Dessutom väljer eleven med viss säkerhet ett uttryckssätt som är anpassat för att på ett tillfredsställande sätt interagera med den avsedda användaren.
+Elevens färdiga program eller skript är utfört med tillfredsställande resultat i ett eller flera programmeringsspråk och innehåller sekventiell programmering och grundläggande objektorienterad programmering som är stabil och robust i program av enkel karaktär.
+Eleven anpassar med viss säkerhet sin planering av programmeringsuppgiften och utför felsökning av enkla syntaxfel.
+Innan programmeringsuppgiften avslutas utvärderar eleven med enkla omdömen programmets prestanda och ändamålsenlighet i någon situation eller i något sammanhang.
+Eleven kommunicerar med viss säkerhet med datalogiska begrepp om programmeringsuppgiften och dess utvärdering.
+När eleven samråder med handledare bedömer hon eller han med viss säkerhet den egna förmågan och situationens krav.
+
+Betyget D
+Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.
+
+Betyget C
+Eleven formulerar och planerar programmeringsuppgifter med pseudokod eller med aktivitetsdiagram.
+I planeringen väljer eleven med viss säkerhet kontrollstrukturer, metoder, variabler, datastrukturer och algoritmer som är adekvata för uppgiften.
+Eleven implementerar en sökningsalgoritm och efter samråd med handledare också en sorteringsalgoritm och en rekursiv algoritm.
+I sin programmering skriver eleven en korrekt, strukturerad och kommenterad källkod, med konsekvent kodningsstil och tydlig namngivning.
+Dessutom väljer eleven med viss säkerhet ett uttryckssätt som är anpassat för att på ett tillfredsställande sätt interagera med den avsedda användaren.
+Elevens färdiga program eller skript är utfört med tillfredsställande resultat i ett eller flera programmeringsspråk och innehåller sekventiell programmering och grundläggande objektorienterad programmering som är stabil och robust.
+Eleven anpassar med viss säkerhet sin planering av programmeringsuppgiften och utför på ett systematiskt sätt felsökning av syntaxfel, körtidsfel och programmeringslogiska fel.
+Innan programmeringsuppgiften avslutas utvärderar eleven med nyanserade omdömen programmets prestanda och ändamålsenlighet i några situationer och sammanhang.
+Eleven kommunicerar med viss säkerhet med datalogiska begrepp om programmeringsuppgiften och dess utvärdering.
+När eleven samråder med handledare bedömer hon eller han med viss säkerhet den egna förmågan och situationens krav.
+
+Betyget B
+Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.
+
+Betyget A
+Eleven formulerar och planerar programmeringsuppgifter med pseudokod eller med aktivitetsdiagram.
+I planeringen väljer eleven med säkerhet kontrollstrukturer, metoder, variabler, datastrukturer och algoritmer som är adekvata för uppgiften samt motiverar utförligt sina val.
+Eleven implementerar sökningsalgoritmer och efter samråd med handledare också sorteringsalgoritmer och rekursiva algoritmer.
+I sin programmering skriver eleven en korrekt, strukturerad och utförligt kommenterad källkod, med konsekvent kodningsstil och tydlig namngivning.
+Dessutom väljer eleven med säkerhet ett uttryckssätt som är anpassat för att på ett gott sätt interagera med den avsedda användaren.
+Elevens färdiga program eller skript är utfört med gott resultat i ett eller flera programmeringsspråk och innehåller sekventiell programmering och grundläggande objektorienterad programmering som är stabil och robust i program av komplex karaktär.
+Eleven anpassar med säkerhet sin planering av programmeringsuppgiften och utför på ett systematiskt och effektivt sätt felsökning av syntaxfel, körtidsfel och programmeringslogiska fel.
+Innan programmeringsuppgiften avslutas utvärderar eleven med nyanserade omdömen och med förslag på förbättringar programmets prestanda och ändamålsenlighet i flera situationer och sammanhang.
+Eleven kommunicerar med säkerhet med datalogiska begrepp om programmeringsuppgiften och dess utvärdering.
+När eleven samråder med handledare bedömer hon eller han med säkerhet den egna förmågan och situationens krav.

@@ -1,0 +1,82 @@
+Webbutveckling 1, 100 poäng
+Kurskod: WEBWEU01
+
+Kursen webbutveckling 1 omfattar punkterna 1–3 och 5–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–3 och 6–7.
+
+Centralt innehåll
+Undervisningen i kursen ska behandla följande centrala innehåll:
+• Webben som plattform, dess historia och samhällspåverkan.
+• Teknisk orientering om webbens protokoll, adresser, säkerhet och samspelet mellan klient och server.
+• Utvecklingsprocessen för ett webbtekniskt projekt: målsättningar, planering, specifikation av struktur och design, kodning, optimering, testning, dokumentation och uppföljning.
+• Märkspråk och deras inbördes roller, syntax och semantik – där det huvudsakliga innehållet är standarderna för (x)html och css och orientering om dokumentobjektsmodellen (DOM) och Ecmaskript.
+• Teckenkodning: orientering om ASCII, ISO-8859, Windows-1252 och Unicode.
+• Bilder och media med alternativa format, optimering och tillgänglighet.
+• Nationella och internationella riktlinjer för god praxis inom webbutveckling.
+• Uppnående av interoperabilitet genom att följa standarder och testa på olika användaragenter.
+• Applikationer som fungerar oberoende av val av användaragent, operativsystem eller hårdvaruplattform samt hur tillgänglighet uppnås utifrån att applikationerna ska vara uppfattningsbara, användbara, begripliga och robusta även för användare med funktionsnedsättning.
+• Kvalitetssäkring av applikationens funktion och validering av kodens kvalitet.
+• Lagar och andra bestämmelser som styr digital information, till exempel personuppgiftslagen och lagen om elektronisk kommunikation.
+• Terminologi inom området webbutveckling.
+
+Kunskapskrav
+
+Betyget E
+Eleven beskriver översiktligt webbens historia och påverkan på samhället samt grundläggande tekniker som webben bygger på.
+Eleven gör en enkel projektplan för en tänkt produkt.
+Utifrån projektplanen utvecklar eleven i samråd med handledare produkten.
+I arbetet utvecklar eleven kod som med tillfredsställande resultat följer standarder och som omfattar några av de grundläggande teknikerna för märkspråk och stilmallar.
+Dessutom redogör eleven översiktligt för vanliga problem som beror på felaktigt angiven teckenkodning i olika applikationer.
+I arbetet bearbetar eleven med viss säkerhet enkel text, bild och eventuell annan media, så att de blir anpassade för att fungera i produkten.
+Produkten är av tillfredsställande kvalitet och följer etablerad god praxis.
+Eleven testar produkten i några webbläsare samt vidtar några enkla åtgärder för att åstadkomma snabb överföring av bilder och andra mediafiler.
+Dessutom bygger eleven en webbplats som med tillfredsställande resultat följer grundläggande principer för tillgänglighet.
+När arbetet är utfört gör eleven en enkel dokumentation av de moment som har utförts samt utvärderar med enkla omdömen sitt arbete och resultat.
+Eleven redogör översiktligt för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete.
+Eleven hanterar lösenord eller annan känslig data på ett etiskt riktigt sätt.
+Eleven använder med viss säkerhet enkel terminologi inom området.
+När eleven samråder med handledare bedömer hon eller han med viss säkerhet den egna förmågan och situationens krav.
+
+Betyget D
+Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.
+
+Betyget C
+Eleven beskriver utförligt webbens historia och påverkan på samhället samt grundläggande tekniker som webben bygger på.
+Eleven gör en genomarbetad projektplan för en tänkt produkt.
+Utifrån projektplanen utvecklar eleven efter samråd med handledare produkten.
+I arbetet utvecklar eleven kod som med tillfredsställande resultat följer standarder och som omfattar några av de grundläggande teknikerna för märkspråk och stilmallar.
+I produkten infogar eleven enkla diskreta domskript.
+Dessutom redogör eleven utförligt för vanliga problem som beror på felaktigt angiven teckenkodning i olika applikationer samt väljer och anger lämplig teckenkodning.
+I arbetet bearbetar eleven med viss säkerhet och via flera moment text, bild och eventuell annan media, så att de blir anpassade för att fungera i produkten.
+Produkten är av tillfredsställande kvalitet och följer etablerad god praxis.
+Detta kontrollerar eleven med några tester.
+Eleven testar produkten på flera plattformar, inklusive traditionella datorer och mobila enheter, samt vidtar några åtgärder för att åstadkomma snabb överföring av bilder och andra mediafiler.
+Dessutom bygger eleven en webbplats som med tillfredsställande resultat följer grundläggande principer för tillgänglighet och kontrollerar detta med några automatiserade tester.
+När arbetet är utfört gör eleven en noggrann dokumentation av de moment som har utförts samt utvärderar med nyanserade omdömen sitt arbete och resultat.
+Eleven redogör utförligt för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete.
+Eleven hanterar lösenord eller annan känslig data på ett etiskt riktigt sätt samt för välgrundade resonemang om andra webbrelaterade frågor om etik och integritet.
+Dessutom anger eleven hur tredjepartskod kan innebära problem för produktens säkerhet.
+Eleven använder med viss säkerhet terminologi inom området.
+När eleven samråder med handledare bedömer hon eller han med viss säkerhet den egna förmågan och situationens krav.
+
+Betyget B
+Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.
+
+Betyget A
+Eleven beskriver utförligt och nyanserat webbens historia och påverkan på samhället samt grundläggande tekniker som webben bygger på.
+Eleven gör en genomarbetad projektplan för en tänkt produkt.
+Vid behov reviderar eleven planen.
+Utifrån projektplanen utvecklar eleven efter samråd med handledare produkten.
+I arbetet utvecklar eleven kod som med gott resultat följer standarder och som omfattar flera av de grundläggande teknikerna för märkspråk och stilmallar.
+I produkten infogar eleven diskreta domskript.
+Dessutom redogör eleven utförligt och nyanserat för vanliga problem som beror på felaktigt angiven teckenkodning i olika applikationer, väljer och anger lämplig teckenkodning samt anger hur enklare problem som relaterar till teckenkodningar hanteras.
+I arbetet bearbetar eleven med säkerhet och via flera moment text, bild och eventuell annan media, så att de blir anpassade för att fungera i produkten.
+Produkten är av god kvalitet och följer etablerad god praxis.
+Detta kontrollerar eleven både manuellt och med flera tester.
+Eleven testar produkten på flera plattformar, inklusive traditionella datorer och mobila enheter, samt optimerar bilder och andra mediafiler för att åstadkomma snabb överföring och vidtar åtgärder för att reducera antalet överföringar per sida.
+Dessutom bygger eleven en webbplats som med gott resultat följer grundläggande principer för tillgänglighet och kontrollerar detta med automatiserade tester och simuleringar.
+När arbetet är utfört gör eleven en noggrann och utförlig dokumentation av de moment som har utförts med koppling till generella principer och testresultat samt utvärderar med nyanserade omdömen sitt arbete och resultat och ger förslag på hur arbetet kan förbättras.
+Eleven redogör utförligt och nyanserat för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete.
+Eleven hanterar lösenord eller annan känslig data på ett etiskt riktigt sätt samt för välgrundade och nyanserade resonemang om andra webbrelaterade frågor om etik och integritet.
+Dessutom anger eleven hur tredjepartskod kan innebära problem för produktens säkerhet samt beskriver grundläggande säkerhetskriterier vid val av webbhotell.
+Eleven använder med säkerhet terminologi inom området.
+När eleven samråder med handledare bedömer hon eller han med säkerhet den egna förmågan och situationens krav.
