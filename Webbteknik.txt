@@ -6,16 +6,15 @@ Webbteknik används för att utveckla och vidareutveckla statiska och dynamiska 
 Ämnets syfte
 Undervisningen i ämnet webbteknik ska syfta till att eleverna utvecklar färdigheter i att skapa produkter med hjälp av webbteknik.
 Eleverna ska ges möjlighet att utveckla kunskaper om olika webbteknikers konstruktion och funktionalitet samt samspelet mellan olika sorters applikationslogik.
-Genom undervisningen ska eleverna ges möjlighet att utveckla produkter som följer standarder och nationella och internationella riktlinjer för god praxis, användbarhet, tillgänglighet och säkerhet.
+Genom undervisningen ska eleverna ges möjlighet att utveckla produkter som följer standarder samt nationella och internationella riktlinjer för god praxis, användbarhet, tillgänglighet och säkerhet
 Undervisningen ska leda till att eleverna utvecklar kunskaper om relevanta lagar och andra bestämmelser samt förmåga att göra webbrelaterade etiska överväganden.
 
 I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i att använda utvecklingsverktyg för att producera och kontrollera framställning av den kod som driver webbplatser eller applikationer.
 Eleverna ska också ges möjlighet att utveckla färdigheter i att använda befintliga verktyg för administration av webbservrar och databaser.
-Vid utveckling av webbtekniska applikationer arbetar man oftast i projektform, varför undervisningen ska ge eleverna möjlighet att utveckla kunskaper om projektarbetets olika faser samt tillfälle att arbeta i projekt.
-
+Undervisningen ska ge eleverna tillfälle att arbeta i projekt samt möjlighet att utveckla kunskaper om projektarbete och dess olika faser.
 Undervisningen i ämnet webbteknik ska ge eleverna förutsättningar att utveckla följande:
 1. Kunskaper om internets historia, betydelse, terminologi och funktionalitet.
-2. Förmåga att planera, genomföra, dokumentera och utvärdera utvecklingsprojekt för webbplatser och webbapplikationer eller andra slags applikationer som bygger på webbtekniker.
+2. Förmåga att planera, genomföra, dokumentera och utvärdera utvecklingsprojekt för webbplatser och applikationer som bygger på webbtekniker.
 3. Kunskaper om de tekniker som används för att bygga webbplatser och webbapplikationer samt dessa teknikers vidgade roll inom annan mjukvaruutveckling.
 4. Kunskaper om tekniker för dynamiska webbplatser.
 5. Kunskaper om teckenkodning och förmåga att hantera olika standarder för teckenkodning.
@@ -30,3 +29,4 @@ Webbutveckling 2, 100 poäng, som bygger på kursen webbutveckling 1.
 Webbutveckling 3, 100 poäng, som bygger på kursen webbutveckling 2.
 Webbserverprogrammering 1, 100 poäng, som bygger på kursen webbutveckling 1.
 Webbserverprogrammering 2, 100 poäng, som bygger på kursen webbserverprogrammering 1.
+Mobila applikationer 1, 100 poäng, som bygger på kursen webbutveckling 1. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.

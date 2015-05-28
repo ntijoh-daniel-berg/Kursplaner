@@ -1,32 +1,32 @@
 Webbserverprogrammering 1, 100 poäng
 Kurskod: WEBWEB01
 
-Kursen webbserverprogrammering 1 omfattar punkterna 1–2 och 4–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 4–5 och 9.
+Kursen webbserverprogrammering 1 omfattar punkterna 1—2 och 4—9 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 4—5 och 9.
 
 Centralt innehåll
 Undervisningen i kursen ska behandla följande centrala innehåll:
 • Webbserverns och dynamiska webbplatsers funktionalitet.
-• Utvecklingsprocessen för ett webbtekniskt projekt: målsättningar, planering, systemering, kodning, dokumentation och uppföljning.
+• Utvecklingsprocessen för ett webbtekniskt projekt. Målsättningar, planering, systemering, kodning, dokumentation och uppföljning.
 • Dokumentation av utvecklingsprocess och färdig produkt, inklusive kod och mjukvarugränssnitt.
 • En översikt över olika lösningar eller språk som finns för att skapa dynamiska webbplatser.
 • Grunderna i informationshanteringssystem och ramverk.
 • Grundfunktionen i ett programmeringsspråk för dynamiska webbplatser.
 • Datalagring, i relationsdatabas eller med annan teknik.
-• Teckenkodning: begrepp, standarder och handhavande.
+• Teckenkodning. Begrepp, standarder och handhavande.
 • Kodning och dokumentation enligt vedertagen praxis för den teknik som används i sammanhanget.
 • Kvalitetssäkring av dynamiska webbapplikationers funktionalitet, säkerhet och kodkvalitet.
-• Säkerhet: vanliga attackvektorer mot webbapplikationer och de viktigaste principerna för att hindra attacker.
+• Säkerhet. Vanliga attackvektorer mot webbapplikationer och de viktigaste principerna för att hindra attacker.
 
 Kunskapskrav
 
 Betyget E
-Eleven beskriver översiktligt dynamiska webbplatsers och informationshanteringssystems historia och hur de samspelar med olika tekniker på webben.
-Dessutom beskriver eleven översiktligt olika tekniska alternativ som finns för webbserverprogrammering och informationshantering.
+Eleven beskriver översiktligt dynamiska webbplatsers och informations­hanterings­systems historia och hur de samspelar med olika tekniker på webben.
+Dessutom beskriver eleven översiktligt olika tekniska alternativ som finns för webbserver­programmering och informationshantering.
 Eleven gör en enkel projektplan för en tänkt produkt.
 I projektplanen beskriver eleven översiktligt produktens funktion.
-Utifrån projektplanen utvecklar eleven i samråd med handledare produkten, där presentationslogiken i begränsad utsträckning är skild från produktens övriga logik.
+Utifrån projektplanen utvecklar eleven i samråd med handledare produkten, där presentations­logiken i begränsad utsträckning är skild från produktens övriga logik.
 I arbetet utvecklar eleven kod som i begränsad utsträckning är läsbar och kommenterad.
-Produkten uppvisar enkel funktionalitet med ett språk för webbserverprogrammering och tillhandahåller en enkel lösning för datapersistens mellan sidvisningar.
+Produkten uppvisar enkel funktionalitet med ett språk för webbserver­programmering och tillhandahåller en enkel lösning för datapersistens mellan sidvisningar.
 I arbetet redogör eleven också översiktligt för vanliga problem som beror på felaktigt angiven teckenkodning i olika applikationer.
 Produkten är av tillfredsställande kvalitet och följer etablerad god praxis.
 När arbetet är utfört gör eleven en enkel dokumentation av de moment som har utförts samt utvärderar med enkla omdömen sitt arbete och resultat.
@@ -39,13 +39,13 @@ Betyget D
 Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.
 
 Betyget C
-Eleven beskriver utförligt dynamiska webbplatsers och informationshanteringssystems historia och hur de samspelar med olika tekniker på webben.
-Dessutom beskriver eleven utförligt olika tekniska alternativ som finns för webbserverprogrammering och informationshantering.
+Eleven beskriver utförligt dynamiska webbplatsers och informations­hanterings­systems historia och hur de samspelar med olika tekniker på webben.
+Dessutom beskriver eleven utförligt olika tekniska alternativ som finns för webbserver­programmering och informationshantering.
 Eleven gör en genomarbetad projektplan för en tänkt produkt.
 I projektplanen beskriver eleven utförligt produktens funktion och arkitektur.
-Utifrån projektplanen utvecklar eleven efter samråd med handledare produkten, där presentationslogiken är skild från produktens övriga logik.
+Utifrån projektplanen utvecklar eleven efter samråd med handledare produkten, där presentations­logiken är skild från produktens övriga logik.
 I arbetet utvecklar eleven kod som följer en given kodningsstandard och är kommenterad.
-Produkten uppvisar funktionalitet med ett språk för webbserverprogrammering och tillhandahåller en enkel lösning för permanent datalagring.
+Produkten uppvisar funktionalitet med ett språk för webbserver­programmering och tillhandahåller en enkel lösning för permanent datalagring.
 I arbetet redogör eleven också utförligt för vanliga problem som beror på felaktigt angiven teckenkodning i olika applikationer samt väljer och anger lämplig teckenkodning.
 Produkten är av tillfredsställande kvalitet och följer etablerad god praxis.
 Detta kontrollerar eleven med några tester.
@@ -60,14 +60,14 @@ Betyget B
 Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.
 
 Betyget A
-Eleven beskriver utförligt och nyanserat dynamiska webbplatsers och informationshanteringssystems historia och hur de samspelar med olika tekniker på webben.
-Dessutom beskriver eleven utförligt och nyanserat olika tekniska alternativ som finns för webbserverprogrammering och informationshantering.
+Eleven beskriver utförligt och nyanserat dynamiska webbplatsers och informations­hanterings­systems historia och hur de samspelar med olika tekniker på webben.
+Dessutom beskriver eleven utförligt och nyanserat olika tekniska alternativ som finns för webbserver­programmering och informationshantering.
 Eleven gör en genomarbetad projektplan för en tänkt produkt.
 Vid behov reviderar eleven planen.
 I projektplanen beskriver eleven utförligt och nyanserat produktens funktion, arkitektur och mjukvarugränssnitt.
-Utifrån projektplanen utvecklar eleven efter samråd med handledare produkten, där presentationslogiken är skild från produktens övriga logik.
+Utifrån projektplanen utvecklar eleven efter samråd med handledare produkten, där presentations­logiken är skild från produktens övriga logik.
 I arbetet utvecklar eleven kod som följer en given kodningsstandard och är utförligt kommenterad.
-Produkten uppvisar tillräcklig funktionalitet med ett språk för webbserverprogrammering för att driva en helt databasbaserad webbplats eller en jämförbart avancerad produkt och tillhandahåller en lösning med viss komplexitet för permanent datalagring.
+Produkten uppvisar tillräcklig funktionalitet med ett språk för webbserver­programmering för att driva en helt databas­baserad webbplats eller en jämförbart avancerad produkt och tillhandahåller en lösning med viss komplexitet för permanent datalagring.
 I arbetet redogör eleven också utförligt och nyanserat för vanliga problem som beror på felaktigt angiven teckenkodning i olika applikationer, väljer och anger lämplig teckenkodning samt anger hur enklare problem som relaterar till teckenkodningar hanteras.
 Produkten är av god kvalitet och följer etablerad god praxis.
 Detta kontrollerar eleven både manuellt och med flera tester.

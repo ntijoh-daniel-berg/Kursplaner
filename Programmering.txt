@@ -1,4 +1,5 @@
 PROGRAMMERING
+
 Ämnet programmering behandlar programmeringens roll i informationstekniska sammanhang som datorsimulering, animerad grafik, praktisk datoriserad problemlösning och användaranpassad konfiguration av programvara.
 Det behandlar också hur man skapar, utvecklar och anpassar programvaror samt tillämpar datalogisk teori.
 
@@ -15,7 +16,7 @@ Undervisningen i ämnet programmering ska ge eleverna förutsättningar att utve
 1. Kunskaper om datorstyrda industriella system och om industriell datorkommunikation.
 2. Förmåga att formulera och planera programmeringsuppgifter med pseudokod och diagramteknik.
 3. Förståelse av och färdigheter i att använda datalogiska begrepp och algoritmer.
-4. Förmåga att skriva, läsa, strukturera, analysera, dokumentera och kommentera källkod i ett eller flera programmeringsspråk.
+4. Kunskaper om programmeringsspråk samt förmåga att skriva, läsa, strukturera, analysera, dokumentera och kommentera källkod i ett eller flera programmeringsspråk.
 5. Kunskaper om gränssnitt mot användare, filer, filsystem, operativsystem, databaser och internet.
 6. Kunskaper om objektorienterad programmering i teori och praktik.
 7. Förmåga att finna, diskutera, åtgärda och förhindra syntaxfel, programkörningsfel och programmeringslogiska fel.
@@ -25,3 +26,4 @@ Kurser i ämnet
 Programmering 1, 100 poäng.
 Programmering 2, 100 poäng, som bygger på kursen programmering 1.
 Industriell programmering, 100 poäng, som bygger på kursen programmering 1.
+Datalogi, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.

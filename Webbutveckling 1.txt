@@ -1,19 +1,19 @@
 Webbutveckling 1, 100 poäng
 Kurskod: WEBWEU01
 
-Kursen webbutveckling 1 omfattar punkterna 1–3 och 5–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–3 och 6–7.
+Kursen webbutveckling 1 omfattar punkterna 1—3 och 5—9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1—3 och 6—7.
 
 Centralt innehåll
 Undervisningen i kursen ska behandla följande centrala innehåll:
 • Webben som plattform, dess historia och samhällspåverkan.
 • Teknisk orientering om webbens protokoll, adresser, säkerhet och samspelet mellan klient och server.
-• Utvecklingsprocessen för ett webbtekniskt projekt: målsättningar, planering, specifikation av struktur och design, kodning, optimering, testning, dokumentation och uppföljning.
-• Märkspråk och deras inbördes roller, syntax och semantik – där det huvudsakliga innehållet är standarderna för (x)html och css och orientering om dokumentobjektsmodellen (DOM) och Ecmaskript.
-• Teckenkodning: orientering om ASCII, ISO-8859, Windows-1252 och Unicode.
+• Utvecklingsprocessen för ett webbtekniskt projekt. Målsättningar, planering, specifikation av struktur och design, kodning, optimering, testning, dokumentation och uppföljning.
+• Märkspråk och deras inbördes roller, syntax och semantik – där det huvudsakliga innehållet är standarderna för HTML 5 (Hyper Text Markup Language och CSS (Cascading Style Sheets) samt orientering om dokumentobjektsmodellen, DOM (Document Object Model) och Ecmaskript.
+• Teckenkodning. Orientering om ASCII (American Standard Code for Information Interchange), ISO-8859, Windows-1252 och Unicode.
 • Bilder och media med alternativa format, optimering och tillgänglighet.
 • Nationella och internationella riktlinjer för god praxis inom webbutveckling.
 • Uppnående av interoperabilitet genom att följa standarder och testa på olika användaragenter.
-• Applikationer som fungerar oberoende av val av användaragent, operativsystem eller hårdvaruplattform samt hur tillgänglighet uppnås utifrån att applikationerna ska vara uppfattningsbara, användbara, begripliga och robusta även för användare med funktionsnedsättning.
+• Applikationer som fungerar oberoende av val av användaragent, operativsystem eller hårdvaruplattform samt hur tillgänglighet uppnås utifrån att applikationerna ska vara användarvänliga och robusta även för användare med funktionsnedsättning.
 • Kvalitetssäkring av applikationens funktion och validering av kodens kvalitet.
 • Lagar och andra bestämmelser som styr digital information, till exempel personuppgiftslagen och lagen om elektronisk kommunikation.
 • Terminologi inom området webbutveckling.
