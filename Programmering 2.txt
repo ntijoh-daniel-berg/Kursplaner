@@ -1,57 +1,71 @@
 Programmering 2, 100 poäng
 Kurskod: PRRPRR02
 
-Kursen programmering 2 omfattar punkterna 2—8 under rubriken Ämnets syfte, med särskild
-betoning på punkterna 5 och 6.
+Kursen programmering 2 omfattar punkterna 2—10 under rubriken Ämnets syfte, med särskild betoning på punkt 8.
 
 Centralt innehåll
 Undervisningen i kursen ska behandla följande centrala innehåll:
-• Kodning av program för att läsa, bedöma, lagra, producera, redovisa och utbyta information samt för att kommunicera och utföra tjänster via internet.
-• Traditioner och nya trender i utvecklingen av programmeringsspråk.
-• Analys, nedbrytning och modellering av programmeringstekniska problem med klassdiagram.
-• Skapande av klasser och objekt i avancerad objektorienterad programmering samt klassers konstruktorer och arv.
-• Användning och förändring av objekt som ingår i egna och andras klasser och standardbibliotek.
-• Variablers och metoders synlighet och livslängd.
-• Polymorfism och typsäkerhet.
+• Grunderna för klasserna, objekt, egenskaper och metoder.
+• Arv, inkapsling och polymorfism.
+• Skapande av klasser och objekt i ett objektorienterat programspråk utifrån tidigare analys och design.
+• Användning av klasser och att genom arv förändra beteende hos klasser som ingår i egna och andras klasshierarkier och standardbibliotek.
 • Generiska klasser och metoder.
-• De vanligaste klasserna i ett grafiskt användargränssnitt.
-• Gränssnitt mot internet.
-• Gränssnitt mot profiler och filsystem.
-• Gränssnitt mot databaser.
+• Variablers och metoders synlighet och livslängd.
+• Stark och svag samt statisk och dynamisk typning.
+• Identifierares synlighet och livslängd.
+• Det valda programspråkets kontrollstrukturer.
+• Undantagshantering.
+• Analys, nedbrytning och modellering av programmeringstekniska problem med lämpligt analysverktyg, till exempel användningsfall.
+• Design av lämplig lösning ur föregående analys med lämpligt verktyg och metoder som klassdiagram.
+• Skapande av användarvänliga gränssnitt.
+• Skrivning och läsning av lagrad data.
+• Utveckling av program som nyttjar kommunikation över internet.
 
 Kunskapskrav
-Betyget E
 
-Eleven formulerar och planerar programmeringsuppgifter med enkla klassdiagram.
-I planeringen väljer eleven med viss säkerhet standardbibliotek, egna och andras klasser, konstruktorer, objekt och gränssnitt som är adekvata för uppgiften.
-I sin programmering skriver eleven, med konsekvent kodningsstil och tydlig namngivning, korrekt, strukturerad och enkelt kommenterad källkod med tillfredsställande resultat.
-Dessutom väljer eleven med viss säkerhet ett uttryckssätt och ett grafiskt gränssnitt som är anpassat för att på ett tillfredsställande sätt interagera med den avsedda användaren.
-Elevens färdiga program är utförda med tillfredsställande resultat i ett eller flera programmeringsspråk och innehåller objektorienterad programmering som är stabil och robust i program av enkel karaktär.
-Eleven anpassar med viss säkerhet sin planering av programmeringsuppgiften, uppmärksammar problem med typsäkerhet och utför felsökning av enkla syntaxfel.
-Innan programmeringsuppgiften avslutas utvärderar eleven med enkla omdömen programmets prestanda och ändamålsenlighet i någon situation och i något sammanhang.
-Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då med viss säkerhet datalogiska begrepp.
+Betyget E
+Eleven formulerar och planerar i samråd med handledare programmeringsuppgifter och väljer med viss säkerhet lämpliga programspråk.
+Eleven analyserar och modellerar enklare uppgifter i samråd med handledare.
+Eleven designar med viss säkerhet utifrån den analyserade uppgiften en enkel lösning och dokumenterar denna med ett enkelt klassdiagram.
+Eleven väljer med viss säkerhet ett uttryckssätt och ett gränssnitt som är anpassat för att på ett tillfredsställande sätt interagera med den avsedda användaren.
+Eleven skapar någon enkel lösning där programmet kommunicerar över internet.
+Eleven skapar med viss säkerhet enklare program med klasser där arv används i begränsad utsträckning.
+I sin programmering skriver eleven med konsekvent kodningsstil och tydlig namngivning en korrekt, strukturerad och enkelt kommenterad källkod med tillfredsställande resultat.
+Eleven använder med viss säkerhet någon generisk klass.
+Produkten är av tillfredsställande kvalitet i ett eller flera programspråk och innehåller objektorienterad programmering som är stabil och robust i program av enkel karaktär.
+Eleven anpassar med viss säkerhet sin planering av programutvecklingsprocessen och utför felsökning av enkla syntaxfel.
+Innan programutvecklingen avslutas utvärderar eleven med enkla omdömen programmets prestanda och ändamålsenlighet i någon situation och i något sammanhang.
+Eleven kommunicerar om programutvecklingen och dess utvärdering och använder då med viss säkerhet datavetenskapliga begrepp.
 
 Betyget D
 Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.
 
 Betyget C
-Eleven formulerar och planerar programmeringsuppgifter med enkla klassdiagram.
-I planeringen väljer eleven med viss säkerhet standardbibliotek, egna och andras klasser, konstruktorer, objekt och gränssnitt som är adekvata för uppgiften.
-I sin programmering skriver eleven, med konsekvent kodningsstil och tydlig namngivning, korrekt, strukturerad och noggrant kommenterad källkod med tillfredsställande resultat.
-Dessutom väljer eleven med viss säkerhet ett uttryckssätt och ett grafiskt gränssnitt som är anpassat för att på ett tillfredsställande sätt interagera med den avsedda användaren.
-Elevens färdiga program är utförda med tillfredsställande resultat i ett eller flera programmeringsspråk och innehåller objektorienterad programmering som är stabil och robust.
-Eleven anpassar med viss säkerhet sin planering av programmeringsuppgiften, uppmärksammar problem med typsäkerhet och utför på ett systematiskt sätt felsökning av syntaxfel, körtidsfel och programmeringslogiska fel.
-Innan programmeringsuppgiften avslutas utvärderar eleven med nyanserade omdömen programmets prestanda och ändamålsenlighet i några situationer och sammanhang.
-Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då med viss säkerhet datalogiska begrepp.
+Eleven formulerar och planerar efter samråd med handledare programmeringsuppgifter och väljer med viss säkerhet lämpliga programspråk.
+Eleven analyserar och modellerar uppgifter efter samråd med handledare.
+Eleven designar med viss säkerhet utifrån den analyserade uppgiften en lösning och dokumenterar denna med ett klassdiagram.
+Eleven väljer med viss säkerhet ett uttryckssätt och ett gränssnitt som är anpassat för att på ett tillfredsställande sätt interagera med den avsedda användaren.
+Eleven skapar någon lösning där programmet kommunicerar över internet.
+Eleven skapar med viss säkerhet enklare program med klasser där arv används.
+I sin programmering skriver eleven med konsekvent kodningsstil och tydlig namngivning en korrekt, strukturerad och noggrant kommenterad källkod med tillfredsställande resultat.
+Eleven använder med viss säkerhet några generiska klasser.
+Produkten är av tillfredsställande kvalitet i ett eller flera programspråk och innehåller objektorienterad programmering som är stabil och robust.
+Eleven anpassar med viss säkerhet sin planering av programutvecklingsprocessen och utför på ett systematiskt sätt felsökning av syntaxfel, körtidsfel och programmeringslogiska fel.
+Innan programutvecklingen avslutas utvärderar eleven med nyanserade omdömen programmets prestanda och ändamålsenlighet i några situationer och sammanhang.
+Eleven kommunicerar om programutvecklingen och dess utvärdering och använder då med viss säkerhet datavetenskapliga begrepp.
 
 Betyget B
 Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.
 
 Betyget A
-Eleven formulerar och planerar programmeringsuppgifter med enkla klassdiagram.
-I planeringen väljer eleven med säkerhet standardbibliotek, egna och andras klasser, konstruktorer, objekt och gränssnitt som är adekvata för uppgiften samt motiverar utförligt sina val.
-I sin programmering skriver eleven, med konsekvent kodningsstil och tydlig namngivning, en korrekt, strukturerad och noggrant och utförligt kommenterad källkod med gott resultat.
-Dessutom väljer eleven med säkerhet ett uttryckssätt och ett grafiskt gränssnitt som är anpassat för att på ett gott sätt interagera med den avsedda användaren.
-Elevens färdiga program är utförda med gott resultat i ett eller flera programmeringsspråk och innehåller objektorienterad programmering som är stabil och robust i program av komplex karaktär.
-Eleven anpassar med säkerhet sin planering av programmeringsuppgiften, anpassar polymorfi, uppmärksammar problem med typsäkerhet och utför på ett systematiskt och effektivt sätt felsökning av syntaxfel, körtidsfel och programmeringslogiska fel.
-Innan programmeringsuppgiften avslutas utvärderar eleven med nyanserade omdömen och med förslag på förbättringar programmets prestanda och ändamålsenlighet i flera situationer och sammanhang. Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då med säkerhet datalogiska begrepp.
+Eleven formulerar och planerar efter samråd med handledare programmeringsuppgifter och väljer med säkerhet lämpliga programspråk.
+Eleven analyserar och modellerar komplexa uppgifter efter samråd med handledare.
+Eleven designar med säkerhet utifrån den analyserade uppgiften en komplex lösning och dokumenterar denna med ett avancerat klassdiagram.
+Eleven väljer med säkerhet ett uttryckssätt och ett gränssnitt som är anpassat för att på ett gott sätt interagera med den avsedda användaren.
+Eleven skapar någon genomarbetad lösning där programmet kommunicerar över internet.
+Eleven skapar med säkerhet enklare program med klasser där arv används i omfattande utsträckning.
+I sin programmering skriver eleven med konsekvent kodningsstil och tydlig namngivning en korrekt, strukturerad och noggrant och utförligt kommenterad källkod med gott resultat.
+Eleven använder med säkerhet flera generiska klasser. Produkten är av god kvalitet i ett eller flera programspråk och innehåller objektorienterad programmering som är stabil och robust i program av komplex karaktär.
+Eleven anpassar med säkerhet sin planering av programutvecklingsprocessen, anpassar polymorfi och utför på ett systematiskt och effektivt sätt felsökning av syntaxfel, körtidsfel och programmeringslogiska fel.
+Innan programutvecklingen avslutas utvärderar eleven med nyanserade omdömen och ger förslag på förbättringar av programmets prestanda och ändamålsenlighet i flera situationer och sammanhang.
+Eleven kommunicerar om programutvecklingen och dess utvärdering och använder då med säkerhet datavetenskapliga begrepp.

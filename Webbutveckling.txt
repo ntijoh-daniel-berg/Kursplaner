@@ -1,0 +1,30 @@
+
+Webbutveckling
+
+Ämnet webbutveckling behandlar de tekniker som används för att presentera och bearbeta information i webbläsaren samt utifrån dessa tekniker skapa och vidareutveckla statiska och dynamiska webbsidor, webbplatser eller webbapplikationer.
+
+Ämnets syfte
+Ämnet webbutveckling ska syfta till att eleverna utvecklar färdigheter i att skapa produkter med hjälp av olika webbtekniker.
+Eleverna ska ges möjlighet att utveckla kunskaper om olika webbteknikers konstruktion och funktionalitet samt kunskaper om samspelet mellan beställare, användare, formgivare och utvecklare.
+Genom undervisningen ska eleverna ges möjlighet att utveckla produkter som följer standarder, riktlinjer för god praxis, användbarhet och tillgänglighet även för användare med funktionsnedsättning.
+Undervisningen ska leda till att eleverna utvecklar kunskaper om relevanta lagar och andra bestämmelser samt förmåga att göra webbrelaterade etiska överväganden.
+
+I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i att använda verktyg för att producera och kontrollera den kod på en webbplats som exekveras av webbklienten.
+
+Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om projekt som arbetsmetod och tillfälle till arbete i projektform.
+
+Undervisningen i ämnet webbutveckling ska ge eleverna förutsättningar att utveckla följande:
+1. Kunskaper om webbens historia, betydelse och funktionalitet.
+2. Förmåga att planera, genomföra, testa, dokumentera och utvärdera utvecklingsprojekt för webbplatser samt applikationer som bygger på klientbaserade webbtekniker.
+3. Kunskaper om de tekniker som används för att bygga webbplatser och webbapplikationer.
+4. Förmåga att använda externa webbtjänster för informationsutbyte mellan webbplatser.
+5. Förmåga att utveckla dynamisk presentationslogik.
+6. Förmåga att bygga webbplatser och webbapplikationer enligt standarder och riktlinjer för god praxis samt med god tillgänglighet.
+7. Kunskaper om lagar och andra bestämmelser inom området samt förmåga att göra etiska överväganden och reflektera över integritetsfrågor.
+8. Kunskaper om säkerhet och förmåga att identifiera och motarbeta attacker.
+9. Förmåga att använda terminologi inom området.
+
+Kurser i ämnet
+• Webbutveckling 1, 100 poäng.
+• Webbutveckling 2, 100 poäng, som bygger på kursen webbutveckling 1.
+• Webbutveckling 3, 100 poäng, som bygger på kursen webbutveckling 2. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.

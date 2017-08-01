@@ -1,79 +1,65 @@
 Webbserverprogrammering 1, 100 poäng
-Kurskod: WEBWEB01
+Kurskod: WESWEB01
 
-Kursen webbserverprogrammering 1 omfattar punkterna 1—2 och 4—9 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 4—5 och 9.
+Kursen webbserverprogrammering 1 omfattar punkterna 1—8 under rubriken Ämnets syfte, med särskild betoning på punkt 1.
 
 Centralt innehåll
 Undervisningen i kursen ska behandla följande centrala innehåll:
 • Webbserverns och dynamiska webbplatsers funktionalitet.
-• Utvecklingsprocessen för ett webbtekniskt projekt. Målsättningar, planering, systemering, kodning, dokumentation och uppföljning.
-• Dokumentation av utvecklingsprocess och färdig produkt, inklusive kod och mjukvarugränssnitt.
+• Utvecklingsprocessen för ett webbtekniskt projekt med målsättningar, krav, begränsningar, planering och uppföljning. Specifikation av struktur och design, kodning, testning samt driftsättning.
+• Dokumentation av utvecklingsprocess och färdig produkt.
 • En översikt över olika lösningar eller språk som finns för att skapa dynamiska webbplatser.
-• Grunderna i informationshanteringssystem och ramverk.
-• Grundfunktionen i ett programmeringsspråk för dynamiska webbplatser.
-• Datalagring, i relationsdatabas eller med annan teknik.
+• Grundfunktionen i ett programspråk för dynamiska webbplatser.
+• Teknisk orientering om webbens protokoll, adresser, säkerhet samt samspelet mellan klient och server.
+• Datalagring i relationsdatabas eller med annan teknik.
 • Teckenkodning. Begrepp, standarder och handhavande.
-• Kodning och dokumentation enligt vedertagen praxis för den teknik som används i sammanhanget.
+• Kodning och dokumentation enligt vedertagen praxis för vald teknik.
+• Applikationsarkitektur och separation av olika slags logik.
 • Kvalitetssäkring av dynamiska webbapplikationers funktionalitet, säkerhet och kodkvalitet.
-• Säkerhet. Vanliga attackvektorer mot webbapplikationer och de viktigaste principerna för att hindra attacker.
+• Grundläggande säkerhet och sätt att identifiera hot och sårbarheter samt hur attacker kan motverkas genom effektiva åtgärder.
 
 Kunskapskrav
-
 Betyget E
-Eleven beskriver översiktligt dynamiska webbplatsers och informations­hanterings­systems historia och hur de samspelar med olika tekniker på webben.
-Dessutom beskriver eleven översiktligt olika tekniska alternativ som finns för webbserver­programmering och informationshantering.
-Eleven gör en enkel projektplan för en tänkt produkt.
-I projektplanen beskriver eleven översiktligt produktens funktion.
-Utifrån projektplanen utvecklar eleven i samråd med handledare produkten, där presentations­logiken i begränsad utsträckning är skild från produktens övriga logik.
-I arbetet utvecklar eleven kod som i begränsad utsträckning är läsbar och kommenterad.
-Produkten uppvisar enkel funktionalitet med ett språk för webbserver­programmering och tillhandahåller en enkel lösning för datapersistens mellan sidvisningar.
-I arbetet redogör eleven också översiktligt för vanliga problem som beror på felaktigt angiven teckenkodning i olika applikationer.
+Eleven beskriver översiktligt tekniken bakom dynamiska webbplatser och hur de samspelar med olika tekniker på webben.
+Eleven gör en enkel projektplan för en tänkt webbapplikation.
+I projektplanen beskriver eleven översiktligt applikationens funktion.
+Utifrån projektplanen utvecklar eleven i samråd med handledare applikationen där presentations­logiken i begränsad utsträckning är skild från applikationens övriga logik.
+I arbetet utvecklar eleven kod som i begränsad utsträckning är läsbar och översiktligt kommenterad.
+Applikationen uppvisar enkel funktionalitet med ett språk för webbserver­programmering och tillhandahåller en enkel lösning för datapersistens mellan sidvisningar.
 Produkten är av tillfredsställande kvalitet och följer etablerad god praxis.
 När arbetet är utfört gör eleven en enkel dokumentation av de moment som har utförts samt utvärderar med enkla omdömen sitt arbete och resultat.
-Eleven redogör översiktligt för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete.
-Dessutom identifierar eleven någon attackvektor mot produkten och vidtar någon enkel åtgärd för att förhindra den.
-Eleven använder med viss säkerhet enkel terminologi inom området.
-När eleven samråder med handledare bedömer hon eller han med viss säkerhet den egna förmågan och situationens krav.
+Eleven identifierar ett fåtal sårbarheter eller hot och vidtar enkla åtgärder för att förhindra att produkten utnyttjas.
+När eleven kommunicerar med andra använder hon eller han med viss säkerhet enkel terminologi.
 
 Betyget D
 Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.
 
 Betyget C
-Eleven beskriver utförligt dynamiska webbplatsers och informations­hanterings­systems historia och hur de samspelar med olika tekniker på webben.
-Dessutom beskriver eleven utförligt olika tekniska alternativ som finns för webbserver­programmering och informationshantering.
-Eleven gör en genomarbetad projektplan för en tänkt produkt.
-I projektplanen beskriver eleven utförligt produktens funktion och arkitektur.
-Utifrån projektplanen utvecklar eleven efter samråd med handledare produkten, där presentations­logiken är skild från produktens övriga logik.
-I arbetet utvecklar eleven kod som följer en given kodningsstandard och är kommenterad.
-Produkten uppvisar funktionalitet med ett språk för webbserver­programmering och tillhandahåller en enkel lösning för permanent datalagring.
-I arbetet redogör eleven också utförligt för vanliga problem som beror på felaktigt angiven teckenkodning i olika applikationer samt väljer och anger lämplig teckenkodning.
+Eleven beskriver utförligt tekniken bakom dynamiska webbplatser och hur de samspelar med olika tekniker på webben.
+Eleven gör en genomarbetad projektplan för en tänkt webbapplikation.
+I projektplanen beskriver eleven utförligt applikationens funktion och arkitektur.
+Utifrån projektplanen utvecklar eleven efter samråd med handledare applikationen där presentations­logiken är skild från applikationens övriga logik.
+I arbetet utvecklar eleven kod som följer en given kodningsstandard och är översiktligt kommenterad.
+Applikationen uppvisar funktionalitet med ett språk för webbserver­programmering och tillhandahåller en enkel lösning för permanent datalagring.
 Produkten är av tillfredsställande kvalitet och följer etablerad god praxis.
-Detta kontrollerar eleven med några tester.
+Detta kontrollerar eleven med hjälp av några tester.
 När arbetet är utfört gör eleven en noggrann dokumentation av de moment som har utförts samt utvärderar med nyanserade omdömen sitt arbete och resultat.
-I utvärderingen gör eleven välgrundade reflektioner över hur beslut har tagits i arbetet.
-Eleven redogör utförligt för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete.
-Dessutom identifierar eleven några attackvektorer mot produkten och följer grundläggande principer för att förhindra dem.
-Eleven använder med viss säkerhet terminologi inom området.
-När eleven samråder med handledare bedömer hon eller han med viss säkerhet den egna förmågan och situationens krav.
+Eleven identifierar sårbarheter eller hot och vidtar åtgärder för att förhindra att produkten utnyttjas.
+När eleven kommunicerar med andra använder hon eller han med viss säkerhet terminologi.
 
 Betyget B
 Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.
 
 Betyget A
-Eleven beskriver utförligt och nyanserat dynamiska webbplatsers och informations­hanterings­systems historia och hur de samspelar med olika tekniker på webben.
-Dessutom beskriver eleven utförligt och nyanserat olika tekniska alternativ som finns för webbserver­programmering och informationshantering.
-Eleven gör en genomarbetad projektplan för en tänkt produkt.
+Eleven beskriver utförligt och nyanserat tekniken bakom dynamiska webbplatser och hur de samspelar med olika tekniker på webben.
+Eleven gör en genomarbetad projektplan för en tänkt webbapplikation.
 Vid behov reviderar eleven planen.
-I projektplanen beskriver eleven utförligt och nyanserat produktens funktion, arkitektur och mjukvarugränssnitt.
-Utifrån projektplanen utvecklar eleven efter samråd med handledare produkten, där presentations­logiken är skild från produktens övriga logik.
+I projektplanen beskriver eleven utförligt och nyanserat applikationens funktion, arkitektur och mjukvarugränssnitt.
+Utifrån projektplanen utvecklar eleven efter samråd med handledare applikationen där presentations­logiken är skild från applikationens övriga logik.
 I arbetet utvecklar eleven kod som följer en given kodningsstandard och är utförligt kommenterad.
-Produkten uppvisar tillräcklig funktionalitet med ett språk för webbserver­programmering för att driva en helt databas­baserad webbplats eller en jämförbart avancerad produkt och tillhandahåller en lösning med viss komplexitet för permanent datalagring.
-I arbetet redogör eleven också utförligt och nyanserat för vanliga problem som beror på felaktigt angiven teckenkodning i olika applikationer, väljer och anger lämplig teckenkodning samt anger hur enklare problem som relaterar till teckenkodningar hanteras.
+Applikationen uppvisar funktionalitet med ett språk för webbserver­programmering för att driva en helt databaserad webbplats eller en jämförbart avancerad produkt och tillhandahåller en lösning med viss komplexitet för permanent datalagring.
 Produkten är av god kvalitet och följer etablerad god praxis.
-Detta kontrollerar eleven både manuellt och med flera tester.
-När arbetet är utfört gör eleven en noggrann och utförlig dokumentation av de moment som har utförts med koppling till generella principer och testresultat samt utvärderar med nyanserade omdömen sitt arbete och resultat och ger förslag på hur arbetet kan förbättras.
-I utvärderingen gör eleven välgrundade och nyanserade reflektioner över hur beslut har tagits i arbetet.
-Eleven redogör utförligt och nyanserat för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete.
-Dessutom identifierar eleven flera attackvektorer mot produkten och följer grundläggande principer för att förhindra dem.
-Eleven använder med säkerhet terminologi inom området.
-När eleven samråder med handledare bedömer hon eller han med säkerhet den egna förmågan och situationens krav.
+Detta kontrollerar eleven med hjälp av flera tester, även manuella.
+När arbetet är utfört gör eleven en noggrann och utförlig dokumentation av de moment som har utförts samt utvärderar med nyanserade omdömen sitt arbete och resultat samt ger förslag på hur arbetet kan förbättras.
+Eleven identifierar flera sårbarheter eller hot och vidtar avancerade åtgärder för att förhindra att produkten utnyttjas.
+När eleven kommunicerar med andra använder hon eller han med säkerhet terminologi.

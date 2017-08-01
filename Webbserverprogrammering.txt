@@ -1,0 +1,28 @@
+Webbserverprogrammering
+
+Ämnet webbserverprogrammering behandlar funktionalitet för webblösningar och samspelet mellan beställare, användare, formgivare och utvecklare.
+
+Ämnets syfte
+Undervisningen i ämnet webbserverprogrammering ska syfta till att eleverna utvecklar färdigheter i att skapa funktionalitet för webbplattformer.
+Eleverna ska ges möjlighet att utveckla kunskaper om olika webbteknikers konstruktion och funktionalitet samt samspelet mellan olika typer av applikationslogik.
+Genom undervisningen ska eleverna ges möjlighet att utveckla produkter som följer standarder samt riktlinjer för god praxis och säkerhet.
+
+I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i att använda utvecklingsverktyg för att producera och testa framställning av den mjukvara som driver webbplatser eller applikationer.
+Eleverna ska också ges möjlighet att utveckla färdigheter i administration av webbservrar och databaser.
+
+Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om projekt som arbetsmetod och tillfälle till arbete i projektform.
+
+Undervisningen i ämnet webbserverprogrammering ska ge eleverna förutsättningar att utveckla följande:
+1. Kunskaper om de tekniker som används för att bygga dynamiska webbplatser och webbapplikationer inklusive datalagring samt dessa teknikers vidgade roll inom annan mjukvaruutveckling.
+2. Förmåga att planera, genomföra, kvalitetssäkra, dokumentera och utvärdera utvecklingsprojekt för webbplatser rörande funktionalitet för webbplattformen.
+3. Förmåga att utveckla webbapplikationer som fungerar oberoende av användarens val och konfiguration av plattform.
+4. Kunskaper om applikationsarkitektur inklusive separation av olika slags logik.
+5. Förmåga att utveckla applikationer enligt standarder och riktlinjer för god praxis.
+6. Förmåga att utveckla applikationslogik för såväl server- som klientsidan.
+7. Kunskaper om säkerhet och förmåga att identifiera och motarbeta attacker genom effektiva åtgärder.
+8. Förmåga att kommunicera med andra och färdigheter i att använda fackspråk.
+
+Kurser i ämnet
+• Webbserverprogrammering 1, 100 poäng, som bygger på kursen webbutveckling 1 och kursen programmering 1.
+• Webbserverprogrammering 2, 100 poäng, som bygger på kursen webbserverprogrammering 1.
+• Webbtjänster, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.
